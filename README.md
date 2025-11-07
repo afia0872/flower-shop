@@ -22,7 +22,7 @@ It is fully responsive, elegant, and visually pleasing — perfect for showcasin
 ### 🖼️ Preview
 | Home Page | About Page |Product Page | Review Page | ContactUs Page | 
 |------------|--------------|------------|------------|------------|
-| ![Home Screenshot](assets/images/1.png) | ![About Screenshot](assets/images/2.png) |![Product Screenshot](assets/images/3.png) |![Review Screenshot](assets/images/4.png) |![ContactUs Screenshot](assets/images/5.png) |
+| ![Home Screenshot](images/1.png) | ![About Screenshot](images/2.png) |![Product Screenshot](images/3.png) |![Review Screenshot](images/4.png) |![ContactUs Screenshot](images/5.png) |
 
 
 ---
